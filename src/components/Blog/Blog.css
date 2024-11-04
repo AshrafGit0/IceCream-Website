@@ -1,0 +1,16 @@
+.Blog1-img {
+    transition: all 0.7s;
+}
+
+.Blog1-img:hover {
+    transform: scale(1.1);
+    transition: all 0.7s;
+}
+
+.Blog1-txt:hover {
+    color: red;
+}
+
+.Blog1-heading:hover {
+    color: red;
+}

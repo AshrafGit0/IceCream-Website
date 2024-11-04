@@ -1,0 +1,28 @@
+.S-Promo1-txt,
+.S-Promo3-txt {
+    top: 10%;
+    left: 25%;
+}
+
+.s-promo-img:hover {
+    transform: scale(1.1);
+    transition: all 0.7s ease-out;
+}
+
+.s-promo-img {
+    transition: all 0.7s;
+}
+
+
+.S-Promo2-Container {
+    top: 5%;
+    left: 5%;
+}
+
+.S-Promo2-Offer {
+    display: inline-block;
+    transform: translate(-65px, 3px);
+    color: white;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}

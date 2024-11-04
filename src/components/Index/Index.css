@@ -1,0 +1,22 @@
+.offcanvas-item:hover {
+    color: red;
+
+}
+
+.offcanvas-body .active {
+    color: red;
+}
+
+
+header nav .offcanvas-item {
+    text-decoration: none;
+    color: black;
+}
+
+header nav .active {
+    color: red;
+}
+
+header nav .offcanvas-item:hover {
+    color: red;
+}
